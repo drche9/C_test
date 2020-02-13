@@ -1,8 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
-//헤더 파일
 int main() {
-	printf("Hi");
-
-	return 0;
+	int a = 1;
+	int b = 2;
+	
 }
