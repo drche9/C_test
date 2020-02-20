@@ -39,10 +39,13 @@
     <ClCompile Include="test7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test8.cpp">
+    <ClCompile Include="test9.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test9.c">
+    <ClCompile Include="test8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test10.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
